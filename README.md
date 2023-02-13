@@ -25,7 +25,7 @@ Chat-GPT와 함께하는 커뮤니티 서비스
 ## 🧱 프로젝트 기술 스택
 <br/>
 
-프론트엔드 
+✔️ 프론트엔드 
 
 * 개발 언어 : JavaScript
 
@@ -34,7 +34,7 @@ Chat-GPT와 함께하는 커뮤니티 서비스
 * 주요 기술 : React
 <br/>
 
-백엔드 
+✔️ 백엔드 
 
 * 개발 언어 : Java
 
@@ -43,9 +43,11 @@ Chat-GPT와 함께하는 커뮤니티 서비스
 * 주요 기술 : , Spring boot, Spring Data JPA, Hibernate, MySQL
 <br/>
 
-협업 기술 : Git, Github
+✔️ 협업 기술 : Git, Github
 
-api : OpenAI
+<br/>
+
+✔️ api : OpenAI
 
 <br/>
 
