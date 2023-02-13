@@ -60,6 +60,12 @@ Chat-GPT와 함께하는 커뮤니티 서비스
 
 ## 🎞 프로젝트 데모 영상
 <br/>
+
+<details>
+    <summary>마이페이지</summary>
+      <h5 align="center">[로그인 화면]</h5>
+</details>
+
 <br/>
 <br/>
 
