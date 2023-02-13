@@ -6,7 +6,6 @@
 * [프로젝트 소개 내용](#-프로젝트-소개)
 * [프로젝트 기술 스택](#-프로젝트-기술-스택)
 * [프로젝트 아키텍처](#-프로젝트-아키텍처)
-* [도전 기술](#-우리가-도전한-기술)
 * [팀원 소개](#-팀원-소개)
 <br/>
 
@@ -30,23 +29,15 @@ front : React
 
 back : SpringBoot
 
-security : SpringSecurity , JWT
-
 db & orm : Spring Data JPA, Hibernate, mysql
 
-api :
+api : 
 
 devops : Git, Github
 <br/>
 <br/>
 
-## 💪 프로젝트 아키텍처
-<br/>
-<br/>
-
 ## 🛠 프로젝트 아키텍처
-<br/>
-
 <br/>
 <br/>
 
