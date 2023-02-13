@@ -62,8 +62,8 @@ Chat-GPT와 함께하는 커뮤니티 서비스
 <br/>
 
 <details>
-    <summary>마이페이지</summary>
-      <h5 align="center">[로그인 화면]</h5>
+    <summary>회원가입</summary>
+      <h5 align="center">화면</h5>
 </details>
 
 <br/>
