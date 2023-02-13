@@ -66,7 +66,43 @@ Chat-GPT와 함께하는 커뮤니티 서비스
 ## 🙈 팀원 소개
 <br/>
 
-| ![image](https://avatars.githubusercontent.com/u/118046196?v=4) | ![image](https://avatars.githubusercontent.com/u/118046196?v=4) | ![image](https://avatars.githubusercontent.com/u/108450681?v=4) | ![image](https://avatars.githubusercontent.com/u/102395715?v=4) |
-| - | - | - | - |
-| [김도일(afmmdoil)](https://github.com/afmmdoil) | [김민서(minseokiim)](https://github.com/minseokiim) | [김민정(minzung)](https://github.com/minzung) | [김준원(gitnameismine)](https://github.com/gitnameismine) |
-
+<table>
+  <tr>
+    <td colspan="3" align="center"><strong>Front-end</strong></td>
+    <td colspan="1" align="center"><strong>Back-end</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/afmmdoil">
+        <img src="https://avatars.githubusercontent.com/u/118046196?v=4" width="100px;" alt=""/><br />
+        <sub>
+          <b>김도일</b>
+        </sub>
+      </a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/minseokiim">
+        <img src="https://avatars.githubusercontent.com/u/118046196?v=4" width="100px;" alt=""/><br />
+        <sub>
+          <b>김민서</b>
+        </sub>
+      </a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/gitnameismine">
+        <img src="https://avatars.githubusercontent.com/u/102395715?v=4" width="100px;" alt=""/>
+        <br />
+        <sub>
+          <b>김준원</b>
+        </sub>
+      </a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/minzung">
+        <img src="https://avatars.githubusercontent.com/u/108450681?v=4" width="100px;" alt=""/><br />
+        <sub>
+          <b>김민정</b>
+        </sub>
+      </a><br />
+    </td>
+</table>
