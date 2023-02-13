@@ -62,7 +62,7 @@ api : OpenAI
 ## 🙈 팀원 소개
 <br/>
 
-| ![image](https://user-images.githubusercontent.com/108450681/218424104-939550ef-b6fb-4c2a-a3aa-abe240bbcfd1.png) | [김민서(minseokiim)](https://github.com/minseokiim) | [김민정(minzung)](https://github.com/minzung/) | [김준원(gitnameismine)](https://github.com/gitnameismine) |
+| ![image](https://avatars.githubusercontent.com/u/118046196?v=4) | ![image](https://avatars.githubusercontent.com/u/118046196?v=4) | ![image](https://avatars.githubusercontent.com/u/108450681?v=4) | ![image](https://avatars.githubusercontent.com/u/102395715?v=4) |
 | - | - | - | - |
-| [김도일(afmmdoil)](https://github.com/afmmdoil) |  |  |  |
+| [김도일(afmmdoil)](https://github.com/afmmdoil) | [김민서(minseokiim)](https://github.com/minseokiim) | [김민정(minzung)](https://github.com/minzung) | [김준원(gitnameismine)](https://github.com/gitnameismine) |
 
