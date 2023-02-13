@@ -21,7 +21,7 @@
 
 ## 프로젝트 기술 스택
 
-개발 언어 : ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+개발 언어 : <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 
 개발 도구 : Visual Code, IntelliJ IDEA, Android Studio, Postman
 주요 기술 : React, Spring boot, Spring Data JPA, Querydsl, MySQL
