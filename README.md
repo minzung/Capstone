@@ -24,18 +24,19 @@ Chat-GPT와 함께하는 커뮤니티 서비스
 
 ## 🧱 프로젝트 기술 스택
 <br/>
-programming language : Java, Javascript
 
-front : React
+프론트엔드 개발 언어 : JavaScript
 
-back : SpringBoot
+백엔드 개발 언어 : Java
 
-db & orm : Spring Data JPA, Hibernate, mysql
+개발 도구 : Visual Code, IntelliJ IDEA, Postman
 
-api : 
+주요 기술 : React, Spring boot, Spring Data JPA, Hibernate, MySQL
 
-devops : Git, Github
-<br/>
+협업 기술 : Git, Github
+
+api : OpenAI
+
 <br/>
 
 ## 🛠 프로젝트 아키텍처
