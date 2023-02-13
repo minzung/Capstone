@@ -51,7 +51,7 @@ devops : Git, Github
 ## 🙈 팀원 소개
 <br/>
 
-| [김도일()]()                                        | [김민서()]()                                         | [김민정(minzung)](https://github.com/minzung/)                                      | [김준원(gitnameismine)](https://github.com/gitnameismine)                                         |
+| [김도일(https://github.com/afmmdoil)]()                                        | [김민서()](https://github.com/minseokiim)                                         | [김민정(minzung)](https://github.com/minzung/)                                      | [김준원(gitnameismine)](https://github.com/gitnameismine)                                         |
 | ------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------- | ----------------------------------------------- |
 |  |  |  |  |
 
