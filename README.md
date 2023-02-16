@@ -43,7 +43,7 @@ Chat-GPT와 함께하는 커뮤니티 서비스
   <tr>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/108450681/218485575-bd0a2ee5-ea19-4e8f-8aca-20eb62d54339.png" width="100px;" alt=""/><br />
-        <b>Java</b>
+        <b>React</b>
     </td>
 </table>
 
@@ -184,7 +184,7 @@ Chat-GPT와 함께하는 커뮤니티 서비스
     </td>
     <td align="center">
       <a href="https://github.com/minseokiim">
-        <img src="https://avatars.githubusercontent.com/u/118046196?v=4" width="100px;" alt=""/><br />
+        <img src="https://avatars.githubusercontent.com/u/55376275?v=4" width="100px;" alt=""/><br />
         <sub>
           <b>김민서</b>
         </sub>
