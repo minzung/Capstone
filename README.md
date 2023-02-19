@@ -102,15 +102,15 @@ Chat-GPT와 함께하는 커뮤니티 서비스
 <table>
   <tr>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/108450681/218480909-11019e3c-9090-46a3-ac87-1b96ec57c185.png" width="100px;" alt=""/><br />
+      <img src="https://user-images.githubusercontent.com/108450681/218480909-11019e3c-9090-46a3-ac87-1b96ec57c185.png" width="100px;"  height="100px" alt=""/><br />
         <b>IntelliJ</b>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/108450681/218481180-3ab3286b-92fb-4ee6-842d-0771f1e00b67.png" width="100px;" alt=""/><br />
+      <img src="https://user-images.githubusercontent.com/108450681/218481180-3ab3286b-92fb-4ee6-842d-0771f1e00b67.png" width="100px;"  height="100px" alt=""/><br />
         <b>Postman</b>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/108450681/218481351-11d64ac6-a8a1-4396-9b1e-ab261ecc6cd3.png" width="100px;" alt=""/><br />
+      <img src="https://user-images.githubusercontent.com/108450681/218481351-11d64ac6-a8a1-4396-9b1e-ab261ecc6cd3.png" width="100px;"  height="100px" alt=""/><br />
         <b>DBeaver</b>
     </td>
 </table>
@@ -121,11 +121,11 @@ Chat-GPT와 함께하는 커뮤니티 서비스
 <table>
   <tr>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/108450681/218483323-c6884cf7-9d65-4222-9eaa-f2d417d28659.png" width="100px;" alt=""/><br />
+      <img src="https://user-images.githubusercontent.com/108450681/218483323-c6884cf7-9d65-4222-9eaa-f2d417d28659.png" width="100px;"  height="100px" alt=""/><br />
         <b>Git</b>
     </td>
     <td align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR25iNmGoLloXgWGs8XOWk0xzaH-F27dIBBeEMrn8o2-9wRGEqaWMdSGAodpZSxOd61gbo&usqp=CAU" width="100px;" alt=""/><br />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR25iNmGoLloXgWGs8XOWk0xzaH-F27dIBBeEMrn8o2-9wRGEqaWMdSGAodpZSxOd61gbo&usqp=CAU" width="100px;"  height="100px" alt=""/><br />
         <b>GitHub</b>
     </td>
     <td align="center">
@@ -143,8 +143,16 @@ Chat-GPT와 함께하는 커뮤니티 서비스
 <table>
   <tr>
     <td align="center">
-      <img src="https://yt3.googleusercontent.com/Z9zNca0QPzIHWGEc-fFMlZfnfttliGkonErtKC4BWsxOTPWtv5HbuGdlUdS9EgMaOwzhLjNV=s900-c-k-c0x00ffffff-no-rj" width="100px;" alt=""/><br />
+      <img src="https://yt3.googleusercontent.com/Z9zNca0QPzIHWGEc-fFMlZfnfttliGkonErtKC4BWsxOTPWtv5HbuGdlUdS9EgMaOwzhLjNV=s900-c-k-c0x00ffffff-no-rj" width="100px;"  height="100px" alt=""/><br />
         <b>OpenAI</b>
+    </td>
+    <td align="center">
+      <img src="https://t1.daumcdn.net/crms/symbol_img/symbol_%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1.png" width="100px;" height="100px" alt=""/><br />
+        <b>Kakao Login API</b>
+    </td>
+    <td align="center">
+      <img src="https://t1.daumcdn.net/cfile/tistory/998EA4415F25F55E10" width="100px;" height="100px" alt=""/><br />
+        <b>Papago API</b>
     </td>
 </table>
 <br/>
