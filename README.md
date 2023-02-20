@@ -46,6 +46,11 @@ Chat-GPT와 함께하는 커뮤니티 서비스
       <img src="https://user-images.githubusercontent.com/108450681/218485575-bd0a2ee5-ea19-4e8f-8aca-20eb62d54339.png" width="100px;" alt=""/><br />
         <b>React</b>
     </td>
+     <tr>
+    <td align="center">
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fuiwjs%2Fbootstrap-icons%2Fblob%2Fmaster%2FREADME.md&psig=AOvVaw33cEZJmERQB7esHAA_jIQA&ust=1676986368454000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjzqJibpP0CFQAAAAAdAAAAABAD" width="100px;" alt=""/><br />
+        <b>Bootstrap</b>
+    </td>
 </table>
 
 * 개발 도구
