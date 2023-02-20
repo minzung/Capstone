@@ -48,7 +48,8 @@ Chat-GPT와 함께하는 커뮤니티 서비스
     </td>
      <tr>
     <td align="center">
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fuiwjs%2Fbootstrap-icons%2Fblob%2Fmaster%2FREADME.md&psig=AOvVaw33cEZJmERQB7esHAA_jIQA&ust=1676986368454000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjzqJibpP0CFQAAAAAdAAAAABAD" width="100px;" alt=""/><br />
+      <img src="![68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67](https://user-images.githubusercontent.com/55376275/220122761-a8fabb87-f3e4-424c-bcd6-fcfe30e528d9.png"
+ width="100px;" alt=""/><br />
         <b>Bootstrap</b>
     </td>
 </table>
