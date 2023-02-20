@@ -48,8 +48,7 @@ Chat-GPT와 함께하는 커뮤니티 서비스
     </td>
      <tr>
     <td align="center">
-      <img src="C:\Users\alstj\OneDrive\Desktop\68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67.png"
- width="100px;" alt=""/><br />
+      <img src="" alt=""/><br />
         <b>Bootstrap</b>
     </td>
 </table>
