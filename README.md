@@ -71,13 +71,19 @@ Chat-GPT와 함께하는 커뮤니티 서비스
     </td>
 </table>
 
-* 주요 기술
+* 프레임 워크
 <table>
   <tr>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/108450681/218481737-5f3f8cde-2d10-41f7-809a-90383cd34ac3.png" width="100px;" alt=""/><br />
         <b>Spring Boot</b>
     </td>
+</table>
+
+
+* ORM
+<table>
+  <tr>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/108450681/218481870-1b3d680e-0608-4a6b-8884-75c2bf2da37b.png" width="100px;" alt=""/><br />
         <b>Spring Data JPA</b>
@@ -86,14 +92,20 @@ Chat-GPT와 함께하는 커뮤니티 서비스
       <img src="https://user-images.githubusercontent.com/108450681/218482062-08ace8fa-9980-48e3-bb77-b0b984b8cb8c.png" width="100px;" alt=""/><br />
         <b>Hibernate</b>
     </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/108450681/218482225-12f45c3b-3796-49b3-94f6-76010c8a612a.png" width="100px;" alt=""/><br />
-        <b>Gradle</b>
-    </td>
+</table>
+
+* WAS
+<table>
+  <tr>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/108450681/218482727-95591b64-34e1-412e-a3a5-6868e07b6cf7.png" width="100px;" height="100px"; alt=""/><br />
         <b>Tomcat</b>
     </td>
+</table>
+
+* 데이터 베이스
+<table>
+  <tr>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/108450681/218482971-d6cb1f7f-84a1-4a38-a230-1b5154b9467f.png" width="100px;" alt=""/><br />
         <b>MySQL</b>
