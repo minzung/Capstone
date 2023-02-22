@@ -39,7 +39,7 @@ Chat-GPT와 함께하는 커뮤니티 서비스
     </td>
 </table>
 
-* 주요 기술
+* 프레임워크
 <table>
   <tr>
     <td align="center">
