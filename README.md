@@ -131,7 +131,7 @@ Chat-GPT와 함께하는 커뮤니티 서비스
 
 <br/>
 
-✔️ 협업 기술
+✔️ 버전 관리
 <table>
   <tr>
     <td align="center">
