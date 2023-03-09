@@ -164,10 +164,6 @@ Chat-GPT와 함께하는 커뮤니티 서비스
       <img src="https://t1.daumcdn.net/crms/symbol_img/symbol_%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1.png" width="100px;" height="100px" alt=""/><br />
         <b>Kakao Login API</b>
     </td>
-    <td align="center">
-      <img src="https://t1.daumcdn.net/cfile/tistory/998EA4415F25F55E10" width="100px;" height="100px" alt=""/><br />
-        <b>Papago API</b>
-    </td>
 </table>
 <br/>
 
