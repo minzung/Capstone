@@ -142,10 +142,6 @@ Chat-GPT와 함께하는 커뮤니티 서비스
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR25iNmGoLloXgWGs8XOWk0xzaH-F27dIBBeEMrn8o2-9wRGEqaWMdSGAodpZSxOd61gbo&usqp=CAU" width="100px;"  height="100px" alt=""/><br />
         <b>GitHub</b>
     </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/108450681/218483487-7912a747-2dd7-481d-9cd3-56281f18aa6b.png" width="100px;" alt=""/><br />
-        <b>GitJub Desktop</b>
-    </td>
 </table>
 
 
